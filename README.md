@@ -8,7 +8,7 @@ I have tried to structure the resources below in an order that could be effectiv
 Learning a new tech can be a huge pain, what i've found most effective for myself is.
 
 * 1: Start out by reading the docs.
-[why the docs](.imgs/docmeme.png)
+![Why the docs](./imgs/docmeme.png "Why the docs meme")
 
     This will help to give you a general idea of what problem the tech is trying to solve and why you might want to use it.
     Core concepts and best practices for using the tech and usually a tutorial and code examples.
