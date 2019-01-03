@@ -40,3 +40,24 @@ Learning a new tech can be a huge pain, what i've found most effective for mysel
     I personally try to implement the tech into a basic auth with routes for signup login and user profile.
 
 ## 4: All The Links
+
+### 1: Intoduction Redux docs
+
+below _in order_ is a list of doc links to get you started with redux
+
+[Motivation Behind Redux](https://redux.js.org/introduction/motivation)
+[Redux Core Concepts](https://redux.js.org/introduction/core-concepts)
+[Redux can be described in three fundamental principles AKA: Three Principles](https://redux.js.org/introduction/three-principles)
+
+### 2: Redux Basic Tutorial
+
+  `In the guide below, you will walk through the process of creating a simple Todo app using redux`
+  `read through it, it will give you general idea of how redux works, but it does not show react till the end`
+  `remeber redux can be used outside of the react ecosystem (angular, vue, ember to name a few)`
+[redux app tutorial](https://redux.js.org/introduction/core-concepts)
+[how to transform the above redux app tutorial to use Reactjs](https://redux.js.org/basics/usage-with-react)
+
+    so the above was nice but i was still kinda confused on how it all fit together.
+    i then started going onto articles and videos for answers and i found a video that
+    was flipping perfect for answering my questions and it used React!! :)
+  
