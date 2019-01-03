@@ -18,8 +18,10 @@ Learning a new tech can be a huge pain, what i've found most effective for mysel
 
 ## 2: Time to hit the google for some walkthrough tutorials on scotch.io, medium.com, frontendmasters.com or some youtubes.
 
-    `“Have patience. All things are difficult before they become easy.” Saadi`
-    __Dont skip step 1__ Almost every article, walkthrough or video you read/watch will use the tech you are trying to learn effectively.
+  __Dont skip step 1__ 
+  `“Have patience. All things are difficult before they become easy.” Saadi`
+
+    Almost every article, walkthrough or video you read/watch will use the tech you are trying to learn effectively.
     Which is awesome but they might not explain something the way you need to hear it or they might start out at a higher or lower level then you were
     expecting and you might end up more confused then when you started. This is why i stress starting with the docs above. 
     a lot of confusion can be avoided by throughly looking through the docs then going onto tutorials.
@@ -29,4 +31,4 @@ Learning a new tech can be a huge pain, what i've found most effective for mysel
 
 ## 3: Three words, Apply, Apply, Apply.
 
-`_“Knowing is not enough, we must apply. Willing is not enough, we must do.” Johann Wolfgang von Goethe_`
+`“Knowing is not enough, we must apply. Willing is not enough, we must do.” Johann Wolfgang von Goethe`
