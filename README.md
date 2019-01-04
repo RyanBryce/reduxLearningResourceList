@@ -98,3 +98,17 @@ below _in order_ is a list of doc links to get you started with redux
 [Homework and Redux Part 1 (redux starts around the 13 minute mark)(class video)](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d3be3bca-e602-4d75-a713-a9ba0019e2b0)
 
 [Redux Part 2 (class video)](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=693d26c0-8912-488d-84a2-a9bc00177bf9)
+
+### 4: From here I would go over advanced topics
+
+[Advanced Redux tutorial](https://redux.js.org/advanced/advanced-tutorial)
+
+### 5: Advanced Recipes
+
+    These are some use cases and code snippets to get you started with Redux in a real app. They assume you understand the topics in basic and advanced tutorials.
+
+[Use cases code snippets](https://redux.js.org/recipes/recipe-index)
+
+### 6: Redux FAQ
+
+[FAQ table of contents](https://redux.js.org/faq)
